@@ -1,0 +1,22 @@
+{
+ "utc": "2026-10-14T10:44:36+00:00",
+ "host": "api.typesafe.ai",
+ "ips": [
+  "104.18.24.46",
+  "104.18.25.46"
+ ],
+ "edge": "Cloudflare TXL (cf-ray)",
+ "method": "curl from this machine; no key, body {} -> HTTP 403 with x-typesafe-request-id; no credits used",
+ "tcp_connect_ms": {
+  "n": 20,
+  "median": 16.6175,
+  "p5": 16.3549,
+  "p95": 17.14295
+ },
+ "warm_rejected_request_ms": {
+  "n": 60,
+  "median": 188.45749999999998,
+  "p5": 172.6996,
+  "p95": 198.03704999999997
+ }
+}
